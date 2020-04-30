@@ -7,6 +7,7 @@ import SEO from '../components/seo'
 class BlogIndex extends React.Component {
   render() {
     const { data } = this.props
+    const homeTitle = 'Somewhere in Neverland'
     const siteTitle = data.site.siteMetadata.title
     const posts = data.allMarkdownRemark.edges
     const { currentPage, numPages } = this.props.pageContext
@@ -18,7 +19,7 @@ class BlogIndex extends React.Component {
     return (
       <DefaultLayout>
         <SEO
-          title={siteTitle}
+          title={homeTitle}
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
         {posts.map(({ node }) => {
@@ -39,7 +40,9 @@ class BlogIndex extends React.Component {
                 <h2 className="post-title">
                   <Link to={node.fields.slug}>{node.frontmatter.title}</Link>
                 </h2>
-                <p>{node.excerpt}</p>
+                <p>{node.frontmatter.description}</p>
+                <br />
+                {/* <p>{node.excerpt}</p> */}
                 <span className="post-date">
                   {node.frontmatter.date}&nbsp;&nbsp;—&nbsp;
                 </span>
@@ -103,8 +106,9 @@ export const pageQuery = graphql`
           }
           timeToRead
           frontmatter {
-            date(formatString: "YYYY, MMM DD")
+            date(formatString: "MMM DD, YYYY")
             title
+            description
             img {
               childImageSharp {
                 fluid(maxWidth: 3720) {

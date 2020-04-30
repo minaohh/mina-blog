@@ -1,12 +1,12 @@
 .wrap-content {
-  padding: 20px;
+  padding: 30px 55px;
 }
 
 .header-page {
   text-align: center;
   margin: 10px 0;
   .page-title {
-    font-weight: 400;
+    font-weight: 900;
     margin: 0 0 10px;
     line-height: 1.3;
   }
@@ -46,12 +46,36 @@
   }
 }
 
+.figcaption_hack {
+  top: 20px;
+  right: 20px;
+  color: rgba(255, 255, 255, 0.7);
+  text-shadow: 0 1px 5px rgba(0, 0, 0, 0.54);
+  font-weight: 300;
+  font-size: 12px;
+  text-align: center;
+  display: block;
+}
+
+.afterword {
+  font-size: 14px;
+}
+
+.subtitle {
+  font-weight: 800;
+  font-size: 20px;
+  letter-spacing: 2px;
+  text-align: center;
+  display: block;
+  color: #d2dae2; //rgba(255, 255, 255, 0.7);
+}
+
 .page-footer {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
   padding-bottom: 30px;
-  margin: 30px 0  ;
+  margin: 30px 0;
   border-bottom: 1px solid $dark-gray;
   .page-share {
     margin-bottom: 10px;
@@ -64,8 +88,8 @@
       padding: 5px 10px;
       margin-left: 5px;
       color: $dark-blue;
-      font-size: 12px;
-      transition: background-color .3s;
+      font-size: 14px;
+      transition: background-color 0.3s;
       &:first-child {
         margin-left: 0;
       }

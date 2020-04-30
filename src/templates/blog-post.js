@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link, graphql } from 'gatsby'
-import { kebabCase } from 'lodash';
+import { kebabCase } from 'lodash'
 import Img from 'gatsby-image'
 
 import DefaultLayout from '../components/layout'
@@ -13,7 +13,10 @@ class BlogPostTemplate extends React.Component {
 
     return (
       <DefaultLayout>
-        <SEO title={post.frontmatter.title} description={post.excerpt} />
+        <SEO
+          title={post.frontmatter.title}
+          description={post.frontmatter.description}
+        />
         <article className="article-page">
           <div className="page-content">
             {post.frontmatter.img && (
@@ -40,7 +43,9 @@ class BlogPostTemplate extends React.Component {
                   {post.frontmatter.tags &&
                     post.frontmatter.tags.map(tag => (
                       <span key={tag}>
-                        <Link  className="tag" to={`/tags/${kebabCase(tag)}/`}># {tag}</Link>
+                        <Link className="tag" to={`/tags/${kebabCase(tag)}/`}>
+                          # {tag}
+                        </Link>
                       </span>
                     ))}
                 </div>
@@ -69,7 +74,8 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "YYYY, MMM DD")
+        description
+        date(formatString: "MMM DD, YYYY")
         tags
         img {
           childImageSharp {

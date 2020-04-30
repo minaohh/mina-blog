@@ -21,7 +21,14 @@ const DefaultLayout = ({ children }) => (
               linkedin
               github
               email
+              medium
             }
+          }
+        }
+        allMarkdownRemark(limit: 2000) {
+          group(field: frontmatter___tags) {
+            fieldValue
+            totalCount
           }
         }
       }
@@ -34,7 +41,10 @@ const DefaultLayout = ({ children }) => (
             rel="stylesheet"
           />
         </Helmet>
-        <Sidebar siteMetadata={data.site.siteMetadata} />
+        <Sidebar
+          allMarkdownRemark={data.allMarkdownRemark}
+          siteMetadata={data.site.siteMetadata}
+        />
         <div className="content-box clearfix">{children}</div>
       </div>
     )}

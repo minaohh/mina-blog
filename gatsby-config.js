@@ -1,15 +1,16 @@
 module.exports = {
   siteMetadata: {
-    title: `Flexible Gatsby`,
-    description: `I am a web developer focusing on front-end development. Always hungry to keep learning.`,
-    author: `David Freeman`,
+    title: `Mina Opada`,
+    description: `Maker, Startup Enthusiast 👩🏻‍💼, Senior Developer 👩🏻‍💻.  Always hungry to learn and improve.`,
+    author: `Mina Opada`,
     siteUrl: `https://github.com/wangonya/flexible-gatsby`,
     social: {
-      twitter: `wang0nya`,
+      twitter: `minaopada`,
       facebook: ``,
-      github: `wangonya`,
-      linkedin: `wangonya`,
-      email: `kwangonya@gmail.com`,
+      github: ``,
+      linkedin: `carmina-opada`,
+      email: `minaopada@gmail.com`,
+      medium: `@minaopada`,
     },
   },
   plugins: [
@@ -59,7 +60,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `./static/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `./static/mina-icon.png`, // This path is relative to the root of the site.
       },
     },
     // `gatsby-plugin-offline`,

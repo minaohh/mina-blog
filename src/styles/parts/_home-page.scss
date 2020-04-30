@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Vidaloka&display=swap');
+@import 'variables';
+
 .sidebar {
   display: flex;
   flex-direction: column;
@@ -28,20 +31,20 @@
     border-radius: 50%;
     transition: transform 0.35s;
     &:hover {
-      transform: scale3d(0.90,0.90,1);
+      transform: scale3d(0.9, 0.9, 1);
     }
   }
   .author-name {
-    font-family: 'PT Serif', serif;
+    font-family: 'Vidaloka', serif;
     margin: 0 0 10px;
     position: relative;
     padding-bottom: 15px;
-    font-size: 16px;
+    font-size: 28px;
     text-transform: uppercase;
     color: $dark;
-    font-weight: 700;
+    font-weight: 900;
     &::after {
-      content: "";
+      content: '';
       position: absolute;
       left: 50%;
       transform: translateX(-50%);
@@ -60,7 +63,7 @@
 }
 .content-box {
   padding: 20px;
-  padding-left: 260px;
+  padding-left: 280px;
 
   display: flex;
   flex-direction: row;
@@ -78,7 +81,7 @@
     text-transform: uppercase;
     text-align: center;
     &::before {
-      content: "";
+      content: '';
       display: block;
       height: 2px;
       width: calc(50% - 48px);
@@ -89,7 +92,7 @@
       background-color: $body-color;
     }
     &::after {
-      content: "";
+      content: '';
       display: block;
       height: 2px;
       width: calc(50% - 48px);
@@ -144,11 +147,11 @@ footer {
   min-height: 11rem;
   border-radius: 10px;
   overflow: hidden;
-  transition: all .3s ease;
-  box-shadow: 0 1px 1px 0 rgba(31, 35, 46, .15);
+  transition: all 0.3s ease;
+  box-shadow: 0 1px 1px 0 $box-shadow;
   &:hover {
     transform: translate(0px, -2px);
-    box-shadow: 0 15px 45px -10px rgba(10, 16, 34, .2);
+    box-shadow: 0 15px 45px -10px $box-shadow-hover;
   }
 
   .post-thumbnail {
@@ -167,26 +170,28 @@ footer {
       font-size: 12px;
     }
     .post-title {
-      margin: 0 0 10px;
-      font-size: 30px;
-      font-weight: 400;
+      margin: 10px 0 10px;
+      font-size: 32px;
+      font-weight: 500;
       a {
-        font-family: 'PT Serif', serif;
+        font-family: 'Vidaloka', serif;
         text-decoration: none;
         color: $dark-blue;
       }
     }
     p {
-      margin-top: 0;
+      margin-top: 20px;
+      margin-bottom: 0;
     }
   }
 }
 
-a.older-posts, a.newer-posts {
+a.older-posts,
+a.newer-posts {
   font-size: 18px;
   display: inline-block;
   color: $body-color;
-  transition: transform .2s;
+  transition: transform 0.2s;
 }
 
 a.older-posts:hover {
