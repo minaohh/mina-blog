@@ -161,6 +161,10 @@ series, volunteer, donate (time or money, you choose), exercise, do yoga, etc. B
 **Keep sane and stay at home. I know we will get through this**, we just have to
 be patient. 😊
 
+<br>
+<br>
+<br>
+
 ---
 
 <span class="afterword">[ProductiveAtHome.club](http://productiveathome.club) is a productivity site I

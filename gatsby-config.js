@@ -3,7 +3,7 @@ module.exports = {
     title: `Mina Opada`,
     description: `Maker, Startup Enthusiast 👩🏻‍💼, Senior Developer 👩🏻‍💻.  Always hungry to learn and improve.`,
     author: `Mina Opada`,
-    siteUrl: `https://github.com/wangonya/flexible-gatsby`,
+    siteUrl: `https://minaopada.com`,
     social: {
       twitter: `minaopada`,
       facebook: ``,
