@@ -1,9 +1,9 @@
 ---
-title: Keeping Sane - Daily Doses of Productivity
+title: 'Keeping Sane: Daily Doses of Productivity'
 date: 2020-05-01
-description: How personal projects kept the stress away in this trying time, during the first month of ECQ
+description: How personal projects kept the stress away in this trying time, surviving the first few weeks of ECQ.
 img: ./cover.jpg
-tags: [Tech, Productivity]
+tags: [Productivity]
 ---
 
 <span class="subtitle">How personal projects kept the stress away in this trying time</span>
@@ -30,11 +30,9 @@ Philippines](https://en.wikipedia.org/wiki/2020_Luzon_enhanced_community_quarant
 🇵🇭, my partner and I created the following products, keeping our minds
 preoccupied, and our days consistently productive.
 
-<br/>
-
 ## Project #1: ProductiveAtHome.club
 
-![](https://cdn-images-1.medium.com/max/2400/1*wPlgp7SLFtff81D7E0HmRg.png)
+![ProductiveAtHome Landing Page](./pahc-landing.png)
 <span class="figcaption_hack">[ProductiveAtHome.club](http://productiveathome.club) Landing Page</span>
 
 [ProductiveAtHome](http://productiveathome.club) 🧠 is my passion project. I’ve
@@ -46,11 +44,11 @@ Makers Festival (WFH)](https://www.producthunt.com/makers-festival/wfh), and
 [posted on ProductHunt](https://www.producthunt.com/posts/productive-at-home)
 last April 19.
 
-![](https://cdn-images-1.medium.com/max/1600/1*RVyRirP2siandHjBhQ-wtQ.png)
+![ProductiveAtHome on ProductHunt](./pahc-ph.png)
 <span class="figcaption_hack">ProductiveAtHome on ProductHunt’s [Makers
 Festival](https://www.producthunt.com/makers-festival/wfh/voting)</span>
 
-😂*Funny story*: I posted the wrong link on my submission for PH’s _Makers
+😂 Funny story: I posted the wrong link on my submission for PH’s _Makers
 Festival_. If you look for [ProductiveAtHome](http://productiveathome.club)
 [here](https://www.producthunt.com/makers-festival/wfh/voting) and click on the
 link, it will show nothing because of a typo 😅 on the link. There’s a ‘_t_’
@@ -60,28 +58,24 @@ I was so excited to launch [ProductiveAtHome](http://productiveathome.club) 🧠
 to share “my baby” to the world, I couldn’t sleep. That excitement helped me see
 this project through to completion.
 
-<br/>
-
 ## Project #2: Fakepatrol.app
 
-![](https://cdn-images-1.medium.com/max/2400/1*3o2Uojl7dCpipo5O_h7wuA.png)
+![Fake Patrol Website](./fake-patrol-landing.png)
 <span class="figcaption_hack">[Fakepatrol.app](http://fakepatrol.app) website</span>
-
-<br/>
 
 ## How working on personal projects helped me cope
 
-![](https://cdn-images-1.medium.com/max/1600/0*b5tfHFqKEwMUmpKj)
+![](https://unsplash.com/photos/w7ZyuGYNpRQ)
 <span class="figcaption_hack">**Focus!** (Photo by [Kevin
-Ku](https://unsplash.com/@ikukevk?utm_source=medium&utm_medium=referral) on
-[Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral))</span>
+Ku](https://unsplash.com/photos/w7ZyuGYNpRQ) on
+[Unsplash](https://unsplash.com))</span>
 
 Here are the three ways working on this project helped keep my sanity and
 positivity intact.
 
 ### #1: Going offline most of the time kept the negativity away 💁🏻‍♀️
 
-![](https://cdn-images-1.medium.com/max/1200/1*tsroLOvd_fHr3VcaLzRuag.png)
+![Log out](./log-out.png)
 <span class="figcaption_hack">Living life offline</span>
 
 Keen to launch as soon as possible, we had to work on this for 2 weeks straight
@@ -100,8 +94,8 @@ your mental health.**
 
 ![](https://cdn-images-1.medium.com/max/1200/0*KwJvjPk8o1bWqGFE)
 <span class="figcaption_hack">Photo by [Ian
-Schneider](https://unsplash.com/@goian?utm_source=medium&utm_medium=referral) on
-[Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)</span>
+Schneider](https://unsplash.com/@goian) on
+[Unsplash](https://unsplash.com)</span>
 
 On top of disconnecting from social media, we limited our time on streaming
 platforms like _Netflix_. Because other than completing the project, we didn’t
@@ -116,8 +110,6 @@ difficult.
 There is no doubt that [happiness affects
 productivity](https://www.knowmail.me/blog/productivity-affect-happiness/). And
 I was in a productive loop
-
-<br>
 
 ## Conclusion
 

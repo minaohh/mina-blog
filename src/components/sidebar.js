@@ -39,6 +39,7 @@ const Sidebar = ({ allMarkdownRemark, siteMetadata }) => {
                       <Link
                         to={`/tags/${kebabCase(tag.fieldValue)}/`}
                         className="tag"
+                        style={{ color: '#e0e0e0' }}
                       >
                         {tag.fieldValue} ({tag.totalCount})
                       </Link>
