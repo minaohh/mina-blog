@@ -7,7 +7,7 @@ import SEO from '../components/seo'
 class BlogIndex extends React.Component {
   render() {
     const { data } = this.props
-    const homeTitle = 'Somewhere in Neverland'
+    const homeTitle = 'Startups, Tech, and more'
     const siteTitle = data.site.siteMetadata.title
     const posts = data.allMarkdownRemark.edges
     const { currentPage, numPages } = this.props.pageContext
