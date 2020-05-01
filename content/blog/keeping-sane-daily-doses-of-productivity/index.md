@@ -65,9 +65,8 @@ this project through to completion.
 
 ## How working on personal projects helped me cope
 
-![](https://unsplash.com/photos/w7ZyuGYNpRQ)
-<span class="figcaption_hack">**Focus!** (Photo by [Kevin
-Ku](https://unsplash.com/photos/w7ZyuGYNpRQ) on
+![Focus on code](https://images.unsplash.com/photo-1504639725590-34d0984388bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2534&q=80)
+<span class="figcaption_hack">**Focus!** (Photo by [Kevin Ku](https://unsplash.com/@ikukevk) on
 [Unsplash](https://unsplash.com))</span>
 
 Here are the three ways working on this project helped keep my sanity and
@@ -76,7 +75,6 @@ positivity intact.
 ### #1: Going offline most of the time kept the negativity away 💁🏻‍♀️
 
 ![Log out](./log-out.png)
-
 <span class="figcaption_hack">Living life offline</span>
 
 Keen to launch as soon as possible, we had to work on this for 2 weeks straight
@@ -93,7 +91,7 @@ your mental health.**
 
 ### #2: To “begin with the end in mind” is to leave little room for distractions 🙈
 
-![](https://cdn-images-1.medium.com/max/1200/0*KwJvjPk8o1bWqGFE)
+![](https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80)
 <span class="figcaption_hack">Photo by [Ian
 Schneider](https://unsplash.com/@goian) on
 [Unsplash](https://unsplash.com)</span>
