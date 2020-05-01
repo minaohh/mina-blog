@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Mina Opada`,
+    title: `By Mina Opada`,
     description: `Maker, Startup Enthusiast 👩🏻‍💼, Senior Developer 👩🏻‍💻.  Always hungry to learn and improve.`,
     author: `Mina Opada`,
     siteUrl: `https://minaopada.com`,
@@ -54,7 +54,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-165290040-1`,
       },
     },
     `gatsby-plugin-feed`,
