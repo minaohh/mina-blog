@@ -38,6 +38,13 @@ module.exports = {
               maxWidth: 970,
             },
           },
+          {
+            resolve: 'gatsby-remark-external-links',
+            options: {
+              target: '_blank',
+              rel: 'nofollow noopener noreferrer',
+            },
+          },
           `gatsby-remark-prismjs`,
         ],
       },
@@ -66,19 +73,5 @@ module.exports = {
     // `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sass`,
-    {
-      resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: [
-          {
-            resolve: 'gatsby-remark-external-links',
-            options: {
-              target: '_blank',
-              rel: 'nofollow noopener noreferrer',
-            },
-          },
-        ],
-      },
-    },
   ],
 }

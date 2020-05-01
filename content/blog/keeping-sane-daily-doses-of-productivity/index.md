@@ -76,6 +76,7 @@ positivity intact.
 ### #1: Going offline most of the time kept the negativity away 💁🏻‍♀️
 
 ![Log out](./log-out.png)
+
 <span class="figcaption_hack">Living life offline</span>
 
 Keen to launch as soon as possible, we had to work on this for 2 weeks straight
