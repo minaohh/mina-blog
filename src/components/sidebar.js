@@ -35,11 +35,15 @@ const Sidebar = ({ allMarkdownRemark, siteMetadata }) => {
                   // )
                   .slice(0, 3)
                   .map(tag => (
-                    <li key={tag.fieldValue} style={{ fontSize: '15px' }}>
+                    <li key={tag.fieldValue} style={{ fontSize: '12px' }}>
                       <Link
                         to={`/tags/${kebabCase(tag.fieldValue)}/`}
                         className="tag"
-                        style={{ color: '#e0e0e0' }}
+                        style={{
+                          color: '#e0e0e0',
+                          paddingTop: 2,
+                          paddingBottom: 2,
+                        }}
                       >
                         {tag.fieldValue} ({tag.totalCount})
                       </Link>

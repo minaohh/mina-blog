@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `By Mina Opada`,
-    description: `Maker, Startup Enthusiast 👩🏻‍💼, Senior Developer 👩🏻‍💻.  Always hungry to learn and improve.`,
+    description: `I write about Tech, Startups, and Productivity. Maker 🛠, Startup Enthusiast 👩🏻‍💼, Developer 👩🏻‍💻.  Always hungry to learn and improve.`,
     author: `Mina Opada`,
     siteUrl: `https://minaopada.com`,
     social: {
