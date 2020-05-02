@@ -17,6 +17,10 @@
     color: #e0e0e0; //rgba(232, 230, 227, 0.95);
   }
 
+  blockquote p {
+    color: $blockquote-color;
+  }
+
   img {
     filter: brightness(90%);
     margin: 0 auto;

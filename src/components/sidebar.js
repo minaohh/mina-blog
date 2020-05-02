@@ -117,6 +117,12 @@ const Sidebar = ({ allMarkdownRemark, siteMetadata }) => {
                   </a>
                 </li>
               )}
+
+              <li>
+                <a href={'https://minaopada.com/rss.xml'} target="_blank">
+                  <i className="fa fa-rss" aria-hidden="true" />
+                </a>
+              </li>
             </ul>
           </section>
           <div className="copyright">

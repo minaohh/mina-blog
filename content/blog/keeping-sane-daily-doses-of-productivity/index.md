@@ -113,7 +113,7 @@ We are so keen to launch, we did nothing else but code. Other than completing th
 ### #3: Hitting milestones and building products meant ending each day satisfied 😌
 
 ![Eat Sleep Code, repeat](https://pics.me.me/code-eat-sleep-code-56267246.png)
-<span class="figcaption_hack">My productive loop</span>
+<span class="figcaption_hack">My productivity loop</span>
 
 There is no doubt that [happiness affects
 productivity](https://www.knowmail.me/blog/productivity-affect-happiness/). And I was in a productive loop: Eat, sleep, code.
