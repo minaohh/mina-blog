@@ -23,7 +23,7 @@ const Sidebar = ({ allMarkdownRemark, siteMetadata }) => {
           <center>
             <div>
               <h5 style={{ marginBottom: '0px', marginTop: '0px' }}>
-                Top Tags
+                Top <a href="/tags">Tags</a>
               </h5>
               <ul className="tags">
                 {allTags

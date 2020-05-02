@@ -9,13 +9,14 @@ import SEO from '../components/seo'
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
-    const { previous, next } = this.props.pageContext
+    const { previous, next, slug } = this.props.pageContext
 
     return (
       <DefaultLayout>
         <SEO
           title={post.frontmatter.title}
           description={post.frontmatter.description}
+          slug={slug}
         />
         <article className="article-page">
           <div className="page-content">
@@ -88,6 +89,9 @@ export const pageQuery = graphql`
             }
           }
         }
+      }
+      fields {
+        slug
       }
     }
   }
