@@ -17,6 +17,7 @@ class BlogPostTemplate extends React.Component {
           title={post.frontmatter.title}
           description={post.frontmatter.description}
           slug={slug}
+          image={post.frontmatter.img.childImageSharp.fluid.src}
         />
         <article className="article-page">
           <div className="page-content">
