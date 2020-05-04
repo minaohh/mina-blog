@@ -28,11 +28,11 @@ const Sidebar = ({ allMarkdownRemark, siteMetadata }) => {
               <ul className="tags">
                 {allTags
                   .sort((a, b) => b.totalCount - a.totalCount)
-                  // .filter(tag =>
-                  //   ['tech', 'startup', 'personal development'].includes(
-                  //     tag.fieldValue.toLowerCase()
-                  //   )
-                  // )
+                  .filter(tag =>
+                    ['tech', 'startup', 'productivity'].includes(
+                      tag.fieldValue.toLowerCase()
+                    )
+                  )
                   .slice(0, 3)
                   .map(tag => (
                     <li key={tag.fieldValue} style={{ fontSize: '12px' }}>

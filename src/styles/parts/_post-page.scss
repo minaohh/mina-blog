@@ -14,7 +14,7 @@
   }
 
   p {
-    color: #e0e0e0; //rgba(232, 230, 227, 0.95);
+    color: $paragraph-color; //rgba(232, 230, 227, 0.95);
   }
 
   blockquote p {
@@ -23,8 +23,14 @@
 
   img {
     filter: brightness(90%);
-    margin: 0 auto;
+    margin: 1em auto 0;
     display: block;
+  }
+
+  ul,
+  ol {
+    margin-top: -1.2em;
+    color: $paragraph-color;
   }
 }
 
