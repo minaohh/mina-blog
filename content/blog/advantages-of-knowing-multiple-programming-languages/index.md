@@ -1,6 +1,6 @@
 ---
 title: 'Advantages of Knowing Multiple Programming Languages'
-date: 2020-05-03
+date: 2020-05-06
 description: How to use being the 'jack of all trades, master of a few' to your advantage.
 img: ./cover.jpg
 tags: [Tech, Career]
