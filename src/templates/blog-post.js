@@ -5,6 +5,7 @@ import Img from 'gatsby-image'
 
 import DefaultLayout from '../components/layout'
 import SEO from '../components/seo'
+import SignUp from '../components/signup'
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -52,6 +53,7 @@ class BlogPostTemplate extends React.Component {
                     ))}
                 </div>
               </div>
+              <SignUp />
             </div>
           </div>
         </article>

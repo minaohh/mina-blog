@@ -47,7 +47,7 @@ In the past, [I was insecure about this](https://dev.to/defgrav04/always-a-begin
 
 ### #1: It facilitates learning new programming languages
 
-Most programming languages closely resemble one another. They only differ in syntax, but the basic concepts are there. It's largely similar with spoken languages, the words differ but they share the same components — grammar, parts of speech i.e. noun, verb, adjective, etc.
+Most programming languages closely resemble one another. They only differ in syntax, but the basic concepts are there. It's largely similar to spoken languages, the words differ but they share the same components — grammar, parts of speech i.e. noun, verb, adjective, etc.
 
 Here's how I transitioned from one programming language to another.
 
@@ -81,7 +81,7 @@ Here's how I transitioned from one programming language to another.
 
 Every language has its limitation. For languages of the same type, there's at least one workflow or process that one does better, or another doesn't support.
 
-**Think outside the box.** Knowing multiple programming languages means you won't be restricted to the capacity and limitations of one language. The general knowledge allows you to think more deeply about problems.
+**Think outside the box.** Knowing multiple programming languages means you won't be restricted to the capacity and limitations of one language. General knowledge allows you to think more deeply about problems.
 
 ### #3: It helps you become a more versatile developer
 
@@ -96,7 +96,7 @@ Last year, I was involved in [AutoServed](https://autoserved.io), a local Automo
 - Only three of us developed the website. We had to determine the best Tech Stack to use.
 - **✅ Requirement**: Create a Minimum Viable Product (MVP). 😎 Meaning, we should create the product with only the core features as fast as possible.
 - **😓Dilemma**: I was the Project Manager and Back-end Developer for the project. Planning and organizing were second nature to me, but my back-end skills were limited to Enterprise programming (JavaEE).
-- 🏆**Solution**: Use the Tech Stack that's easy to setup and code. This is where point 1 above came in handy. I had to learn PHP and Laravel — fast! And I did! 🎉
+- 🏆**Solution**: Use the Tech Stack that's easy to set up and code. This is where point 1 above came in handy. I had to learn PHP and Laravel — fast! And I did! 🎉
 
 **Instead of just sticking to what I know** (JavaEE tech stack), which takes time to set up and even more time to code, **I adapted to the demands of the project and learned a new language so we can achieve our goals**. When you know more technologies and the nuances between them, you can deliver results in the smartest way possible.
 
