@@ -23,8 +23,9 @@ So without further ado, this is our story.
 Before diving into the tragedy that is the past few days, I’d like everyone to understand what we went through during 2020 and how careful — borderline hypochondriac — we all were just to keep the very thing that’s happening to all of us now from happening. 
 
 ![images/3BF9D516-EE3C-439E-A475-BEFA9121C677.jpeg](images/3BF9D516-EE3C-439E-A475-BEFA9121C677.jpeg)
+<span class="figcaption_hack">Family photo during the New Year 2021 when all was well</span>
 
-Family photo during the New Year 2021 when all was well
+
 
 ### Self-imposed lockdown for 8 months in our apartment 🔒
 
@@ -62,8 +63,7 @@ Earlier that week, I was already sleeping in my parents’ room because part of 
 ### Symptoms we cannot ignore
 
 ![images/ED31A307-F776-4BF0-A6F5-B84433E36518.jpeg](images/ED31A307-F776-4BF0-A6F5-B84433E36518.jpeg)
-
-Doing *Tuob*, the practice of inhaling steam from a basin with ginger, lemon, and hot water, to help ease the symptoms (note: it’s not a cure)
+<span class="figcaption_hack">Doing *Tuob*, the practice of inhaling steam from a basin with ginger, lemon, and hot water, to help ease the symptoms (note: it’s not a cure)</span>
 
 It was my brother, *Carlo*, who exhibited some of the mild symptoms of COVID first. He had sore throat, cough, and colds beginning 4th January, which lasted for a week. Since it was still close to the New Year celebration, and having indulged ourselves with cakes, ice cream, cold drinks, mango float, and other sweets, we thought nothing of it. No one else was affected so we believed the overindulgence during the holiday season was to blame. 
 
@@ -106,8 +106,7 @@ Our strategy was to have the 4 of them who had the symptoms — my dad, my mom, 
 ## Hello, Corona!
 
 ![images/32A99D7A-0F42-442C-8B85-62EDF26427B4.jpeg](images/32A99D7A-0F42-442C-8B85-62EDF26427B4.jpeg)
-
-I jokingly took a commemorative photo while saying #TeamCovid right after we found out our parents and *Marie* had COVID-19. 
+<span class="figcaption_hack">I jokingly took a commemorative photo while saying #TeamCovid right after we found out our parents and *Marie* had COVID-19.</span>
 
 The events this past week was one of the most stressful experiences our family have had to go through. 
 
@@ -146,8 +145,7 @@ The accounts that follow are divided into dates, then further sub-divided betwee
 ### January 20 (Wed): We bid the positives farewell
 
 ![images/950CB5F7-B611-4682-A961-9D91326CCA4F.jpeg](images/950CB5F7-B611-4682-A961-9D91326CCA4F.jpeg)
-
-“The positives” room in the isolation area
+<span class="figcaption_hack">“The positives” room in the isolation area</span>
 
 #### The positives
 
@@ -170,8 +168,7 @@ If you’re ever wondering what this feels like, it is very unfortunate that I h
 ### January 21 (Thurs): Hello, isolation
 
 ![images/B4546DBB-C69D-4D1F-BA21-09459F603537.jpeg](images/B4546DBB-C69D-4D1F-BA21-09459F603537.jpeg)
-
-Our room in the isolation area for “close contacts” and LSI’s
+<span class="figcaption_hack">Our room in the isolation area for “close contacts” and LSI’s</span>
 
 #### The positives
 
@@ -204,8 +201,7 @@ I am not pleased to be isolated in a bedroom yet again with *Rose*, not after ha
 ### January 22 (Fri): The worst is yet to come
 
 ![images/636B61DF-2CE9-4815-AC1E-8E4C202D5BB9.jpeg](images/636B61DF-2CE9-4815-AC1E-8E4C202D5BB9.jpeg)
-
-Family call on Messenger when we were scattered in 4 different locations
+<span class="figcaption_hack">Family call on Messenger when we were scattered in 4 different locations</span>
 
 #### The positives
 
@@ -229,8 +225,7 @@ There was a happy family moment yesterday when we had a video call. The 6 of us 
 ### January 23 (Sat): 3 locations is worse
 
 ![images/66B500A0-2C25-4301-91A4-FB3EBEF3642D.jpeg](images/66B500A0-2C25-4301-91A4-FB3EBEF3642D.jpeg)
-
-Our arrival in the isolation area last 21st January
+<span class="figcaption_hack">Our arrival in the isolation area last 21st January</span>
 
 #### The positives
 
