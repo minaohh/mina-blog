@@ -6,8 +6,6 @@ img: ./images/3BF9D516-EE3C-439E-A475-BEFA9121C677.jpeg
 tags: [Health]
 ---
 
-# There’s no escaping COVID-19: when the coronavirus hit our family
-
 What’s it like to have COVID, you ask? To be part of the statistic? This is my COVID experience as someone who’s family is affected by COVID, how the local government has been handling it, and how it affected us as a family.
 
 Last January 13, 2021, a Wednesday, my family and I received the most devastating news you can ever hear during the pandemic that shook and disrupted the whole world since 2020  — some of us are positive with COVID-19 🦠. At the time of writing, my father, my mother, my youngest sibling tested positive while my brother tested negative. The rest of us are still in the government’s isolation areas, waiting to be swabbed.
@@ -20,7 +18,7 @@ So without further ado, this is our story.
 
 ---
 
-# Context: All the sacrifices were apparently all for nought
+## Context: All the sacrifices were apparently all for nought
 
 Before diving into the tragedy that is the past few days, I’d like everyone to understand what we went through during 2020 and how careful — borderline hypochondriac — we all were just to keep the very thing that’s happening to all of us now from happening. 
 
@@ -28,7 +26,7 @@ Before diving into the tragedy that is the past few days, I’d like everyone to
 
 Family photo during the New Year 2021 when all was well
 
-## Self-imposed lockdown for 8 months in our apartment 🔒
+### Self-imposed lockdown for 8 months in our apartment 🔒
 
 My sister and I live in Metro Manila (away from our family) so we were participants of the paranoia prior to the ECQ (Enhanced Community Quarantine) declared last March 16, 2020. We started our lockdown nearly a week early, even before ECQ was declared. If you’re in the middle of the action, you will really “feel” the pandemic. Here are the cliff notes.
 
@@ -39,7 +37,7 @@ My sister and I live in Metro Manila (away from our family) so we were participa
 - **Rapid testing.** Prior to traveling, we ensured we tested negative. This was not a requirement for traveling at the time I traveled (around November) when travel restrictions started to ease. Despite that, I was happy to shoulder the expense (it was over 1,000 PHP at the time) if only to ensure I won’t travel to my hometown and contribute to the problem.
 - **Prolonged isolation took a toll on our mental health.** I will be brief about this as it is too personal to be available in a public platform, though I thought it prudent and worthy of a mention because mental health issues are very real. Being stuck in a 1-BR apartment without a balcony — and, therefore, without direct sunlight — was extremely stressful, depressing and suffocating, to say the least. Let’s just say there are times crying for no reason was the soundtrack of the day. And believe me, I tried all the possible distractions and online entertainment — I worked 3 jobs last year — my day job as a Senior Software Engineer, a part-time teaching job in the University of Santo Tomas as a mobile development professor, and managing my startup, WeSoarHigh, as founder/CEO. Not to mention participating in countless startup-related activities such as IdeaSpace and QBO events, and countless scheduled Zoom/Messenger calls with friends, officemates, fellow founders, etc. They were ample distractions that offered short-term remedy for bigger problems. They remained insufficient, however. This is why I wanted to risk it all and go home for the holidays.
 
-## Our self-imposed lockdown continues in my hometown 🏡
+### Our self-imposed lockdown continues in my hometown 🏡
 
 I flew to my hometown in Mindanao in time for Christmas as I wanted to spend the holidays with my family. It was a breath of fresh air as there’s more room to move around in a house as opposed to an apartment. It’s exactly like being stuck in a small room for months on end without seeing new faces. Again, here are the cliff notes.
 
@@ -55,13 +53,13 @@ It is with immense pain and sadness that I recognize that, despite all efforts, 
 
 ---
 
-# All the signs point to the crown 👑
+## All the signs point to the crown 👑
 
 Excuse the dramatic flare, but the so-called “beginning of the end”dawned on us last Wednesday, 13th of January. My father has just gotten home from a business trip at *Butuan City*. He mentioned he was having a painful migraine and was getting chills during his drive home. I don’t recall if had a fever right then and there — I don’t believe so. He was just complaining about a migraine as we sat at the dining table, having dinner as a family like we always do. On the onset of the symptoms for what we believed was for a regular flu — it had been raining hard for the past few days —my dad was banished to the living room so as not to further implicate us. 
 
 Earlier that week, I was already sleeping in my parents’ room because part of my cabinet was just painted and the smell was suffocating. Anyway, my father’s sleeping arrangement has gone on for days. Eventually, as the paint fumes subsided, he moved into my room that weekend (beginning 16th January until he was taken by the local government to be isolated last Wednesday, 20th January).
 
-## Symptoms we cannot ignore
+### Symptoms we cannot ignore
 
 ![images/ED31A307-F776-4BF0-A6F5-B84433E36518.jpeg](images/ED31A307-F776-4BF0-A6F5-B84433E36518.jpeg)
 
@@ -75,13 +73,13 @@ What readers need to understand about people who are plagued with the symptoms i
 
 We consulted with a doctor via call and he recommended medicines to take. We also monitored my dad’s oxygen levels via the oximeter we have at home — it was well within normal range that weekend. Apart from the usual flu symptoms, that weekend, my father admitted that he lost his sense of taste and smell. Plus, he also felt incredibly tired, yet another symptom of COVID. And with those, our fears heightened. It was then that we decided to have a swab test to finally find out, once and for all, the cause of the ever recurring ailments, if there truly is something about which to be worried. We’ve been dancing around the idea but we knew of the lengthy queue so our initial decision was to avail the drive through (3 days prior booking is required). 
 
-### My youngest sister’s condition
+#### My youngest sister’s condition
 
 In our family of 6, I have 3 younger siblings, myself being the eldest. *Marie*, my youngest sibling, my 2nd sister, has been the designated masseuse of my father. I believe, at one point, when she massaged my dad when he was on a streak of no-symptoms, when we’ve mistakenly believed he was getting better and his symptoms was because of the erratic weather. 
 
 Around Thursday, 14th January, her symptoms began. She had a slight fever of  around 37.4 degrees, and a sore throat. She’s roommate’s with my other sister, *Rose*, so she was looking after her. I wasn’t too across with her condition as my “assignment” was my mother, who was my temporary roommate. In any case, I recall that her condition subsided for a day or two. Then, that weekend, she had a fever as high as 39.8 degrees, which worried everyone. 
 
-### My mother’s condition
+#### My mother’s condition
 
 Compared to my father, my mother is a hypochondriac. She has her own post-work self-disinfecting routine once she gets home. She’s the typical Filipino mom who worries too much and will text each of her child a reminder to drink vitamins — and the message isn’t even copy-pasted; there’s actual, repetitive typing of the same, exact message 🤣. 
 
@@ -89,15 +87,15 @@ My mom’s immune system is much weaker as she is easily affected by others’ s
 
 Her symptoms started around Friday night, 15th January. If I remember correctly, she was already feeling under the weather since Thursday, but her hectic schedule at work (not to mention, the BIR / SEC deadlines) demands her presence. She had high fever throughout the entire weekend, and took similar medicines as my dad did. On top of that, she was also slightly looking after my father and sister. 
 
-### My condition
+#### My condition
 
 This is something that I want to add. As I write this, I am forced into introspection. I want to acknowledge, for the record, that I had a sore throat beginning Friday, 15th January. However, it wasn’t too severe and there weren’t any other symptoms so I didn’t think anything of it. Also, I was in a series of meetings at work that day for around 5 hours straight. That’s what probably caused the strain in my throat, I thought.  I was still part of “Group 1” (more on that later). 
 
-### Other housemates’ conditions
+#### Other housemates’ conditions
 
 My other sister and brother didn’t experience any ailments, although they were alarmed with the condition. Apart from the nuclear family, two of my father’s cousins have been staying with us since we were kids. Fortunately, they don’t have symptoms either. Beginning 15th January, everyone of us were wearing face masks around the house. 
 
-## Time to find out the truth
+### Time to find out the truth
 
 From the accounts above, it’s obvious that the severity of their conditions became heavily apparent over the weekend of 16th and 17th January, 2021. It was then that we decided it was time to go down to *Polymedic Hospital* and take a swab test (COVID test). 
 
@@ -105,7 +103,7 @@ Our strategy was to have the 4 of them who had the symptoms — my dad, my mom, 
 
 ---
 
-# Hello, Corona!
+## Hello, Corona!
 
 ![images/32A99D7A-0F42-442C-8B85-62EDF26427B4.jpeg](images/32A99D7A-0F42-442C-8B85-62EDF26427B4.jpeg)
 
@@ -113,11 +111,11 @@ I jokingly took a commemorative photo while saying #TeamCovid right after we fou
 
 The events this past week was one of the most stressful experiences our family have had to go through. 
 
-## It’s test time
+### It’s test time
 
 Last Monday, 18th January, the aforementioned “big 4” headed over to *Polymedic Hospital* where they spent nearly the entire day queueing to be swabbed. At this point, the number of COVID-19 cases in CDO have been increasing and so was the queue. Despite feeling weak and under the weather, it is quite unfortunate that my family had to line up (*cautiously*) for nearly a day and be subjected to that level of discomfort and inconvenience. I recall they left early, around 9am, and returned home past 3pm. And so, they soldiered on. They were tolerant because finding out the truth was more important. 
 
-## The waiting game — group yourselves into 4 or 5
+### The waiting game — group yourselves into 4 or 5
 
 For those who didn’t get the subtitle above, it’s a reference to the classic children’s party game, “*the Boat is Sinking*”. 
 
@@ -133,7 +131,7 @@ There were 9 of us living at the house beginning that weekend. While waiting for
 
 Some say, the worst part is the anticipation. That couldn’t be more true than awaiting the results of the swab test. It was nearly every hour that my family checked their emails for the results. The anxiety of the build-up was taxing in itself. I cannot even begin to imagine what the “big 4” were experiencing as the anticipation further aggravated their already exhausted condition.
 
-## Results time — our fears were not unfounded
+### Results time — our fears were not unfounded
 
 **Around 9 AM on 20th January, Wednesday, exactly a week after my father showed symptoms, my mother received the dreaded phone call from *Polymedic*, saying Daddy, Marie, and herself had coronavirus.** They were now part of the statistic. When my mom asked about my brother’s result, the caller mentioned that they lost and are still looking for my brother’s records (*oh well, only in the Philippines*). It was only later in the afternoon that he received an email, saying his results were negative. 
 
@@ -141,17 +139,17 @@ Some say, the worst part is the anticipation. That couldn’t be more true than 
 
 You may ask, what exactly happens your worst fears have come true, when your family is plagued with the dreaded COVID-19? In this section, I narrate the critical events that have occurred after the disconcerting results. Everything happened so fast, to be honest. I haven’t had the time to absorb all the events that had happened. 
 
-# Warranted isolation and the anxiety in between
+## Warranted isolation and the anxiety in between
 
 The accounts that follow are divided into dates, then further sub-divided between the positives (those who are COVID-positive) and the close contact, which includes all the members of *Group 1*. Carlo is a lone wolf as you’ll see later.
 
-## January 20 (Wed): We bid the positives farewell
+### January 20 (Wed): We bid the positives farewell
 
 ![images/950CB5F7-B611-4682-A961-9D91326CCA4F.jpeg](images/950CB5F7-B611-4682-A961-9D91326CCA4F.jpeg)
 
 “The positives” room in the isolation area
 
-### The positives
+#### The positives
 
 When my mother received the terrible news via phone call, the person on the other end began to **interview** her. The questions were pretty standard beginning with basic personal information of each of the people who tested positive, then those who come in close contact with them — which is us, *Group 1*, which now includes *Carlo*. Further, I was in touch with one of my close friends since High School who is a doctor in CDO, she has been very helpful in guiding my family during the whole ordeal, giving a heads-up on the procedures that will follow.
 
@@ -161,21 +159,21 @@ The rest of the day was spent preparing luggages of days’ worth of clothes, fr
 
 Basically, the procedure here is they were to stay in the isolation area until the symptoms subsided. Once they do, they were to be swabbed again. It is only when they tested negative that they can be free to return home. 
 
-### The close contacts / negatives
+#### The close contacts / negatives
 
 The first order of business as soon as they left was to fire up the fog machine and disinfectant, and spray the heck out of all the rooms and some of the common areas. In addition to the fog machine, we wiped alcohol around surfaces and sprayed copious amounts of *Lysol* in the rooms in which the positives stayed. It was our mission to kill all remnants of COVID-19, especially on surfaces on which “the positives” interacted. Other than that, we alternated between worrying-slash-praying and asking for updates. 
 
-### Segue: I lost my sense of smell
+#### Segue: I lost my sense of smell
 
 If you’re ever wondering what this feels like, it is very unfortunate that I have the capacity to describe it in much detail as I am affected by it. I found out I lost my sense of smell when I entered our still-foggy room and smelled nothing. My sister, *Rose*, turned on the humidifier because she couldn’t stand the burning chemical smell. I stuck my nose near the nozzle of the humidifier, which was filled with water and 6 drops of Peppermint-flavored essential oils (instead of the usual 4 drops). I then proceeded to waft the air and took deep breaths — nothing.  I tried to smell my dinner — nothing.  
 
-## January 21 (Thurs): Hello, isolation
+### January 21 (Thurs): Hello, isolation
 
 ![images/B4546DBB-C69D-4D1F-BA21-09459F603537.jpeg](images/B4546DBB-C69D-4D1F-BA21-09459F603537.jpeg)
 
 Our room in the isolation area for “close contacts” and LSI’s
 
-### The positives
+#### The positives
 
 My parents informed us, “close contacts”, to prepare for pick-up as we were to be isolated within the day. 
 
@@ -183,7 +181,7 @@ In other news, they said they were doing pretty okay in isolation. They were all
 
 Another worthy update, *Marie* was assigned a separate room from my parents as her symptoms are less severe than them. What’s unfortunate in her case is her room’s flush is defective. There are instructions telling her that she has to hit the flush at least 5 times in extended intervals (to prevent overflow) in order for the waste to fully be gone. The worst part? She has LBM. 🤦‍♀️ 
 
-### The close contacts
+#### The close contacts
 
 We spent the entire day preparing in anticipation for the pick-up. I had to take a leave from work. There’s no way I can concentrate on software development when this family crisis is very much in the now. 
 
@@ -203,13 +201,13 @@ Each room has a maximum capacity of 2, which meant 1 of us was to be isolated al
 
 I am not pleased to be isolated in a bedroom yet again with *Rose*, not after having gone through the same or deal in our apartment in Metro Manila. Although, I still count ourselves fortunate, the room has a private bathroom that’s clean enough with a working flush and good plumbing. There’s a functional air conditioner and the place is spacious enough. (Not sure if I’m exhibiting optimism, or I’m just so used to incompetence that I only expect the worst. Anyway, I digress.)
 
-## January 22 (Fri): The worst is yet to come
+### January 22 (Fri): The worst is yet to come
 
 ![images/636B61DF-2CE9-4815-AC1E-8E4C202D5BB9.jpeg](images/636B61DF-2CE9-4815-AC1E-8E4C202D5BB9.jpeg)
 
 Family call on Messenger when we were scattered in 4 different locations
 
-### The positives
+#### The positives
 
 Things took a turn for the worst when my mom told me that around 1am, they confined my father to the hospital because his oxygen levels are severely low, and he has been having trouble breathing. My father has a knack of downplaying his conditions. Remember the forked path I mentioned earlier, one of paranoia and denial. He indubitably takes the latter. ☹️
 
@@ -217,7 +215,7 @@ I woke up at 6am and read the updates. Although very uncharacteristic of me, I d
 
 Anyway, it is with great sadness that my mom told us that my father was diagnosed with ***pneumonia**.* My mom is looking after him at the hospital, and *Marie* is left in the isolation unit alone. 
 
-### The close contacts
+#### The close contacts
 
 Awaiting getting swabbed, I threw myself into reading books and finished my first book for the year. I participated in a reading challenge on Goodreads. How is this relevant to COVID-19, you may ask? Well, reading is a coping mechanism. I sure as hell cannot focus on work so I had to take another leave again. The rest of us had to have a more constructive outlet — movies, books, and even studying for exams.
 
@@ -228,13 +226,13 @@ There was a happy family moment yesterday when we had a video call. The 6 of us 
 3. Marie remains in the original isolation unit near the mountains.
 4. Carlo is at home taking care of the family business while my parents are occupied.
 
-## January 23 (Sat): 3 locations is worse
+### January 23 (Sat): 3 locations is worse
 
 ![images/66B500A0-2C25-4301-91A4-FB3EBEF3642D.jpeg](images/66B500A0-2C25-4301-91A4-FB3EBEF3642D.jpeg)
 
 Our arrival in the isolation area last 21st January
 
-### The positives
+#### The positives
 
 Just when we thought things will get better, things got even worse. Now, my mother is confined in the hospital as she, too, is diagnosed with **pneumonia**. Further, *Marie* will be confined within the day as well as her cough and LBM has worsened — similar symptoms as my parents prior to their confinement. 
 
@@ -242,7 +240,7 @@ The 3 of them, I believe, will be in the same hospital room, which is good. They
 
 This may seem grim at first, but I’d like to take comfort in the thought that at least all three of them are now getting the proper care that they sorely needed. I am even more confident that we will get through this.
 
-### The close contacts
+#### The close contacts
 
 Some good news, we were swabbed today. In my experience, this was more painful than the one I had last year, probably because the nurse is in quite a rush as there’s a lot of us. Seriously, my nose bled a little and my eyes were tearing up the entire time. I remember *Anne* was so scared of getting swab because she was anticipating the pain as mentioned in our past anecdotes. She was actually nervous 2 days ago when we got to the isolation area when she thought we were getting swabbed right then and there. She said, “*Ate Mae, kulbaan ko, paspas ang beat sa akong heart*. [Ate Mae, I’m so nervous that my heart is racing]”. So funny! 😅
 
@@ -250,7 +248,7 @@ Anyway, now that we are swabbed, the answers we are finally looking for is going
 
 ---
 
-# Final Thoughts
+## Final Thoughts
 
 The story of my family’s encounter with COVID-19 is still being written. I will update this post until all of us have triumphed over this virus and are safely going about our lives. 
 
