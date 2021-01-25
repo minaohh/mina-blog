@@ -241,6 +241,49 @@ Some good news, we were swabbed today. In my experience, this was more painful t
 
 Anyway, now that we are swabbed, the answers we are finally looking for is going to come soon. The procedure is, if our tests turn out to be positive, we will be transferred to another isolation area, which is similar to where my parents and *Marie* ended up last Wednesday. If we are fortunate to have escaped the virus, we will be sent home. 
 
+### January 24 (Sun): #TeamCOVID
+
+![images/FFB63D46-2CC2-4029-9C29-E60E43C72A84.jpeg](images/FFB63D46-2CC2-4029-9C29-E60E43C72A84.jpeg)
+<span class="figcaption_hack">Our view here in the new isolation area for those positive with COVID</span>
+
+
+#### The Positives
+
+*Marie* and my parents are all in the same room at the hospital. To make that happen, my mother had to defer her confinement. It was important that they stay together and watch out for each other. Moral support is important as our minds can often wander and go to very dark places.
+
+It is not uncommon to overthink and analyze — *where did we get the virus? How did it spread to everyone in the family when we’ve been so careful?* This is counterproductive. As my mom said, “Don’t think about what’s already done and just focus on getting better”. That was very wise. 
+
+From the news I’ve heard about this group today, they were doing well so far and are now responding to treatment. This is why it is so important to be honest with yourself, especially when you have comorbidities. You will get the care and attention you deserve.
+
+#### The close contacts join the positives
+
+Before lunch, I got a call from the City Health Office (CHO) for an interview. The situation was all too familiar — it’s exactly what happened to my parents a couple of days ago. The caller verified our personal information and asked us of our symptoms. 
+
+- Me — sore throat, loss of taste and smell, slight cough, tiredness
+- *Rose* — dry cough (though intermittent)
+- *Mary* — sore throat
+- *Leen* and *Anne* don’t have symptoms
+
+After the interview, I was informed of the results of our swab test. **It brings me great sadness to say that all of us —** *Rose, Mary, Leen, and myself* **tested positive of COVID-19.** **It was only the 9-year-old kid, *Anne*, who tested negative. That brings another dilemma, what to do with the kid now that her mom tested positive? Will she be separated from the rest of us? 
+
+And what of my brother? He’s also exposed. 
+
+#### Transfer to another isolation area
+
+![images/C3523DC5-5EE5-4B37-8D54-904F236749CD.jpeg](images/C3523DC5-5EE5-4B37-8D54-904F236749CD.jpeg)
+<span class="figcaption_hack">Our isolation room. We are blessed to have a private and comfortable room.</span>
+
+
+Because we are all positive with COVID-19, we were transferred to another isolation area within the day. *Mary, Rose, and I* were to be transferred to *Eco Village*, which was where my parents were when they were isolated. On the other hand, *Leen and Anne* were to be transferred to *Manresa* because occupancy is already full in *Eco Village*. 
+
+I reckon the way we were separated was based on our surnames. Further, *Anne* will have to be re-swabbed (thank God) so she won’t be separated from her mother for now. Side note, she was crying not because her mom has COVID, but because she had to be re-swabbed. It was an unpleasant experience because it hurt her so. In my experience, my eyes were tearing and there was a bit of blood in my nose. It depends on the person’s pain tolerance and sensitivity, I guess.
+
+Our place at *Eco Village* was breathtaking. The room was spacious, has air conditioning, and a private bathroom. The best part is we have a balcony, which allowed for some fresh air and a refreshing view of nature. Since we are comfortable here, I truly hope this will contribute to our speedy recovery. At *Manresa*, however, the quarters don’t have air conditioning and the restroom is common. On the bright side, we were told that normally, the room isn’t private so they’ll be sharing a room with other people — that was worrisome with a kid around. Fortunately, they are alone in the room. 
+
+Despite everything that has happened, we still count ourselves lucky that we have one another to support us through this difficult time. Imagine having to go through the stress of moving and surviving all alone. To me, that would be mentally and emotionally taxing. This is the very reason why I shared our story, I appreciate the support from friends and family members. It’s all very encouraging. 🤗
+
+PS: As I write this, I am staying in the exact room where my parents were. The local government in CDO has done an amazing and highly satisfactory job indeed.
+
 ---
 
 ## Final Thoughts
