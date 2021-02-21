@@ -1,51 +1,13 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Flexible Gatsby
-</h1>
+# Mina's Website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a0a6e226-6c7a-43e0-bab6-0c658c8abca5/deploy-status)](https://app.netlify.com/sites/flexible-gatsby/deploys)
+Mina's site for Tech, startups, and productivity blogging, as well as her professional career portfolio.
 
-A simple minimalist Gatsby starter for your blog. [Demo](https://flexible-gatsby.netlify.com/).
+Elemental is a portfolio template suitable for artists, photographers, designers etc. With the starter you can create blog, portfolio and miscellaneous posts (such as privacy-policy).
 
-Inspired by [flexible-jekyll](https://github.com/artemsheludko/flexible-jekyll).
+## Technology
 
-![home-page-screenshot](./static/promo-img.jpg)
+![](https://img.shields.io/badge/version-2.1.2-green.svg) ![](https://img.shields.io/badge/License-MIT-orange.svg)
 
-![home-page-screenshot](./static/home-page.jpg)
+This blog is created with [Gatsby JS](https://www.gatsbyjs.org/tutorial/part-zero/) and deployed on [Netlify](https://www.netlify.com/).
 
-![blog-page-screenshot](./static/post-example.jpg)
-
-## Quick Start 🚀
-
-1.  **Create a Gatsby site.**
-
-    Use the Gatsby CLI to create a new site, specifying the default starter.
-
-    ```sh
-    # create a new Gatsby site using the-plain-gatsby starter
-    gatsby new my-blog https://github.com/wangonya/flexible-gatsby
-    ```
-
-2.  **Start developing.**
-
-    Navigate into your new site’s directory and start it up.
-
-    ```sh
-    cd my-blog/
-    gatsby develop
-    ```
-
-3.  **Open the source code and start editing!**
-
-    Your site is now running at `http://localhost:8000`!
-
-    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
-
-    Edit `gatsby.config.js` to update site metadata.
-
-    Add blog posts in markdown in `content/blog`. Example blog posts have been provided.
+Special thanks to [**Akshay**](https://github.com/akzhy) for this wonderful [Elemental](https://elemental.netlify.app) theme.
