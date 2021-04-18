@@ -156,7 +156,7 @@ const defaults = {
     darkmode: false,
     switchTheme: true,
     capitalizeTitleOnHome: true,
-    cookiePolicy: false
+    cookiePolicy: true // TODO: change default to 'false'
 }
 
 Object.keys(defaults).forEach(item => {

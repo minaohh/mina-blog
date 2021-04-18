@@ -49,7 +49,7 @@ export default ({ children, front, seo, navPlaceholder=true, location }: LayoutP
     const cookiePolicyEnabled = query.site.siteMetadata.cookiePolicy;
 
     const [theme, changeTheme] = useState(isDarkTheme ? 1 : 0);
-    const [cookieShown, setCookieShown] = useState(false);
+    const [cookieShown, setCookieShown] = useState(true); // TODO: change default to 'false'
 
     useEffect(() => {
         if(localStorage.getItem("theme")) {
