@@ -9,9 +9,9 @@ const siteMetadata = {
     twoColumnWall: true,
     cookiePolicy: true,
     introTag: `TECHNOPRENEUR | TECH | STARTUPS | PRODUCTIVITY`,
-    description: `A Senior Software Engineer by day, a startup founder by night (and on the weekends). Forever hustling, driven to add value.`,
+    description: `A Lead Software Engineer by day, a startup founder by night (and on the weekends). Forever hustling, driven to add value.`,
     about:
-        "Mina Opada is a Technopreneur, a Senior Software Engineer by day, a startup founder by night (and on the weekends). I write about Tech, Startups, and Productivity. Maker 🛠, Startup Enthusiast 👩🏻‍💼, Developer 👩🏻‍💻. Always hungry to learn and improve. ",
+        "Mina Opada is a Technopreneur, a Lead Software Engineer by day, a startup founder by night (and on the weekends). I write about Tech, Startups, and Productivity. Maker 🛠, Startup Enthusiast 👩🏻‍💼, Developer 👩🏻‍💻. Always hungry to learn and improve. ",
     author: `@minaopada`,
     blogItemsPerPage: 10,
     portfolioItemsPerPage: 10,
